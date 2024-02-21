@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "app-privacy-policy-generator-ztj",
     "public": "public"
   }
 }
