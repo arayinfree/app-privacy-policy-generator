@@ -6,6 +6,13 @@
   link:
     privacy: https://www.google.com/policies/privacy/
     terms: https://policies.google.com/terms
+- name: AppsFlyer
+  model: appsflyer
+  appsflyer: false
+  logo: images/third_party_logos/appsflyer.png
+  link:
+    privacy: https://www.appsflyer.com/legal/services-privacy-policy/
+    terms: https://www.appsflyer.com/legal/terms-of-use/
 - name: AdMob
   model: admob
   admob: false
